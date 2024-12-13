@@ -102,6 +102,7 @@ void zigZig(StNodePtr* lastAdded, StNodePtr* root, int leftOrRight){
 
 		if ((*lastAdded)->parent == NULL)
 			*root = *lastAdded;
+
 		else{
 			if ( (*lastAdded)->parent->left->data == (*lastAdded)->left->left->data)
 				(*lastAdded)->parent->left = *lastAdded;
