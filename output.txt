@@ -1,6 +1,6 @@
 
- Pre-order demonstration of splay tree: 9 3 2 6 5 4 8 7 
- Comparison time of splay tree: 46 
+ Pre-order demonstration of splay tree: 5 3 2 4 6 9 8 7 
+ Comparison time of splay tree: 47 
 
  Pre-order demonstration of mod-splay tree: 5 3 2 4 7 6 8 9 
  Comparison time of mod-splay tree: 35
