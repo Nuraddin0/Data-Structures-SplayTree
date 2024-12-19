@@ -149,7 +149,7 @@ StNodePtr Insert(StNodePtr root, int data, StNodePtr *lastAdded, int *cTime)
     {
         StNodePtr newNode = malloc(sizeof(StNode));
         newNode->data = data;
-        newNode->freq = 1;
+        newNode->freq = 0;
         newNode->left = newNode->right = newNode->parent = NULL;
         *lastAdded = newNode;
         return newNode;
