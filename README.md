@@ -61,7 +61,7 @@ Comparison time of mod-splay tree: 7
 - **Splay** — Brings the last accessed node to the root using rotations
 - **preorder** — Prints a pre-order traversal to the output file
 
-## Author
+## Authors
 
 - [Nuraddin0](https://github.com/Nuraddin0)
 - [devran-hub](https://github.com/devran-hub)
