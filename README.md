@@ -64,3 +64,4 @@ Comparison time of mod-splay tree: 7
 ## Author
 
 - [Nuraddin0](https://github.com/Nuraddin0)
+- [devran-hub](https://github.com/devran-hub)
